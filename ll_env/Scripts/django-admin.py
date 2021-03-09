@@ -1,4 +1,4 @@
-#!c:\users\stuffing\desktop\lessons\learning-log\ll_env\scripts\python.exe
+#!c:\users\stuff\desktop\lessons\learning-log\ll_env\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

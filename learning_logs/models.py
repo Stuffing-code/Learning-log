@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
+
 class Topic(models.Model):
     """The subject the user is studing."""
     text = models.CharField(max_length=200)
@@ -10,6 +11,7 @@ class Topic(models.Model):
     def __str__(self):
         """Returns str type model."""
         return self.text
+
 
 class Entry(models.Model):
     """Information studing by the user on the topic."""

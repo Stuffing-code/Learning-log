@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "C:\\Users\\stuff\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "c:\\Users\\stuff\\Desktop\\lessons\\Learning-log\\ll_env\\Scripts\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
 }
